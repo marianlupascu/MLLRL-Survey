@@ -1,4 +1,4 @@
-# Multimodal Approaches for Low-Resource Languages: A Literature Collection
+# Multimodal Learning for Low-Resource Languages: A Survey
 
 This repository contains a curated collection of research papers focusing on multimodal approaches for low-resource languages. The collection spans from 2018 to 2024, showcasing the evolution and advancement of techniques in this field.
 
