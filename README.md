@@ -27,13 +27,13 @@ The collection includes papers covering 26 languages:
 
 ### Visual Enhancement Techniques
 Papers focusing on improving translation and understanding through visual information:
-- "Multimodal Neural Machine Translation for Low-resource Language Pairs using Synthetic Data" (2018)
-- "Multimodal Neural Machine Translation for English to Hindi" (2020)
-- "MURAL: Multimodal, Multitask Retrieval Across Languages" (2021)
-- "Adding Visual Information to Improve Multimodal Machine Translation for Low-Resource Language" (2022)
-- "Do cues in a video help in handling rare words in a machine translation system under a low-resource setting?" (2023)
-- "DCU ADAPT at WMT24: English to Low-resource Multi-Modal Translation Task" (2024)
-- "English -Malayalam Vision aid with Multi Modal Machine Learning Technologies" (2022)
+- ["Multimodal Neural Machine Translation for Low-resource Language Pairs using Synthetic Data" (2018)](https://doras.dcu.ie/23355/1/Multimodal_Neural_Machine_Translation_for_low-resource_language_pairs_using_synthetic_data%5B1%5D.pdf)
+- ["Multimodal Neural Machine Translation for English to Hindi" (2020)](https://aclanthology.org/2020.wat-1.11.pdf)
+- ["MURAL: Multimodal, Multitask Retrieval Across Languages" (2021)](https://arxiv.org/pdf/2109.05125)
+- ["Adding Visual Information to Improve Multimodal Machine Translation for Low-Resource Language" (2022)](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/5483535)
+- ["Do cues in a video help in handling rare words in a machine translation system under a low-resource setting?" (2023)](https://www.sciencedirect.com/science/article/pii/S2949719123000134)
+- ["DCU ADAPT at WMT24: English to Low-resource Multi-Modal Translation Task" (2024)](https://aclanthology.org/2024.wmt-1.75.pdf)
+- ["English -Malayalam Vision aid with Multi Modal Machine Learning Technologies" (2022)](https://ieeexplore.ieee.org/document/9788187)
 
 ### Data Creation & Engineering
 Papers on dataset creation and curation:
@@ -98,7 +98,11 @@ Papers exploring methods to create artificial training data:
 
 ### Architecture Innovations
 Papers introducing novel model architectures and approaches:
-- TODO
+- "Cycle Consistency" (2019)
+- "Self-PT: Adaptive Self-Prompt Tuning for Low-Resource Visual Question Answering" (2023)
+- "XtremeCLIP: Extremely Parameter-efficient Tuning for Low-resource Vision Language Understanding" (2023)
+- "CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages" (2023)
+- "MURAL: Multimodal, Multitask Retrieval Across Languages" (2021)
 
 ## Citation
 
