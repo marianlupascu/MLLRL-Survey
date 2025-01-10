@@ -9,8 +9,9 @@ The papers in this collection cover various aspects of multimodal approaches for
 - Data creation and engineering
 - Fusion techniques
 - Cross-modal transfer
-- Architecture innovations
 - Synthetic data generation
+- Architecture innovations
+
 
 ## Language Coverage
 
@@ -37,19 +38,19 @@ Papers focusing on improving translation and understanding through visual inform
 
 ### Data Creation & Engineering
 Papers on dataset creation and curation:
-- "Multimodal Sentiment Analysis of Arabic Videos" (2018)
-- "Hindi Visual Genome: A Dataset for Multimodal English-to-Hindi Machine Translation" (2019)
-- "Bengali Visual Genome: A Multimodal Dataset for Machine Translation and Image Captioning" (2022)
-- "Hausa visual genome: A dataset for multi-modal English to Hausa machine translation" (2022)
-- "MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes" (2022)
-- "Mute: A multimodal dataset for detecting hateful memes" (2022)
-- "ArabSign: A Multi-modality Dataset and Benchmark for Continuous Arabic Sign Language Recognition" (2023)
-- "BIG-C: a Multimodal Multi-Purpose Dataset for Bemba" (2023)
-- "Extension Multi30K: Multimodal Dataset for Integrated Vision and Language Research in Ukrainian" (2023)
-- "Towards Arabic Multimodal Dataset for Sentiment Analysis" (2023)
-- "RoMemes: A multimodal meme corpus for the Romanian language" (2024)
-- "SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages" (2024)
-- "FFSTC: Fongbe to French Speech Translation Corpus" (2024)
+- ["Multimodal Sentiment Analysis of Arabic Videos" (2018)](https://www.joig.net/uploadfile/2018/0717/20180717061609554.pdf)
+- ["Hindi Visual Genome: A Dataset for Multimodal English-to-Hindi Machine Translation" (2019)](https://www.scielo.org.mx/scielo.php?pid=S1405-55462019000401499&script=sci_arttext&tlng=en)
+- ["Bengali Visual Genome: A Multimodal Dataset for Machine Translation and Image Captioning" (2022)](https://ufal.mff.cuni.cz/biblio/attachments/2022-bojar-m2165457966160174801.pdf)
+- ["Hausa visual genome: A dataset for multi-modal English to Hausa machine translation" (2022)](https://arxiv.org/pdf/2205.01133)
+- ["MemoSen: A Multimodal Dataset for Sentiment Analysis of Memes" (2022)](https://aclanthology.org/2022.lrec-1.165.pdf)
+- ["Mute: A multimodal dataset for detecting hateful memes" (2022)](https://aclanthology.org/2022.aacl-srw.5.pdf)
+- ["ArabSign: A Multi-modality Dataset and Benchmark for Continuous Arabic Sign Language Recognition" (2023)](https://ieeexplore.ieee.org/document/10042720)
+- ["BIG-C: a Multimodal Multi-Purpose Dataset for Bemba" (2023)](https://arxiv.org/pdf/2305.17202)
+- ["Extension Multi30K: Multimodal Dataset for Integrated Vision and Language Research in Ukrainian" (2023)](https://aclanthology.org/2023.unlp-1.7.pdf)
+- ["Towards Arabic Multimodal Dataset for Sentiment Analysis" (2023)](https://ieeexplore.ieee.org/document/10317847)
+- ["RoMemes: A multimodal meme corpus for the Romanian language" (2024)](https://arxiv.org/pdf/2410.15497)
+- ["SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages" (2024)](https://arxiv.org/pdf/2406.10118)
+- ["FFSTC: Fongbe to French Speech Translation Corpus" (2024)](https://arxiv.org/pdf/2403.05488)
 
 ### Fusion Techniques
 Papers exploring different methods of combining multimodal information:
