@@ -49,7 +49,7 @@ Papers focusing on improving translation and understanding through visual inform
 
 ### Data Creation & Engineering
 Papers on dataset creation and curation:
-| No | Tite | Year | Link |
+| No | Title | Year | Link |
 | --------| -------- | ------- | ------- |
 | 1 | Multimodal Sentiment Analysis of Arabic Videos | 2018 | [Link](https://www.joig.net/uploadfile/2018/0717/20180717061609554.pdf) |
 | 2 | Hindi Visual Genome: A Dataset for Multimodal English-to-Hindi Machine Translation | 2019 | [Link](https://arxiv.org/abs/1907.08948) |
@@ -79,7 +79,7 @@ Papers on dataset creation and curation:
 
 ### Fusion Techniques
 Papers exploring different methods of combining multimodal information:
-| No | Tite | Year | Link |
+| No | Title | Year | Link |
 | --------| -------- | ------- | ------- |
 | 1 | Multilingual Multimodal Machine Translation for Dravidian Languages utilizing Phonetic Transcription | 2019 | [Link](https://aclanthology.org/W19-6809/) |
 | 2 | Enhanced Video Analytics for Sentiment Analysis Based on Fusing Textual, Auditory and Visual Information (Arabic languages) | 2020 | [Link](https://ieeexplore.ieee.org/abstract/document/9148603) |
