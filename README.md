@@ -15,14 +15,15 @@ The papers in this collection cover various aspects of multimodal approaches for
 
 ## Language Coverage
 
-The collection includes papers covering 26 languages:
+The collection includes papers covering multiple languages:
+- Arabic (13 papers)
 - Hindi (12 papers)
-- Chinese/Mandarin (7 papers)
-- Bengali, Arabic, Malayalam (6 papers each)
-- Amharic, Tamil (5 papers each)
-- Urdu, Vietnamese, Assamese, Hausa (3 papers each)
-- Mongolian, Yoruba (2 papers each)
-- Romanian, Fongbe, Bemba, Persian, Igbo, Azerbaijani, Tagalog, Kazakh, Manipuri, Lao, Sinhala, Javanese, Uyghur (1 paper each)
+- Bengali, Tamil, Malayalam (7 papers each)
+- Amharic (6 papers)
+- Urdu, Vietnamese, Assamese (4 papers each)
+- Hausa, Mongolian (3 papers each)
+- Chinese, Yoruba (2 papers each)
+- Romanian, Fongbe, Bemba, Persian, Igbo, Azerbaijani, Tagalog, Kazakh, Manipuri, Lao, Sinhala, Javanese, Uyghur, Sanskrit, Ukrainian, Bulgarian (1 paper each)
 
 ## Categories
 
