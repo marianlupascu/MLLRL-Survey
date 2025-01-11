@@ -38,7 +38,6 @@ Papers focusing on improving translation and understanding through visual inform
 | 6 | Investigation of English to Hindi Multimodal Neural Machine Translation using Transliteration-based Phrase Pairs Augmentation | 2022 | [Link](https://aclanthology.org/2022.wat-1.15/) |
 | 7 | Adding Visual Information to Improve Multimodal Machine Translation for Low-Resource Language | 2022 | [Link](https://onlinelibrary.wiley.com/doi/epdf/10.1155/2022/5483535) |
 | 8 | English -Malayalam Vision aid with Multi Modal Machine Learning Technologies | 2022 | [Link](https://ieeexplore.ieee.org/abstract/document/9788187?casa_token=RNYhqj4fgxAAAAAA:uQL7UrSFXSqY9dYNrkEj60r_kin0LvVQ0c3rx1grl-533rIducnNN2npSXwjLcOX5ZRhd_CV) |
-| 14 | Multimodal Attention-Driven Visual Question Answering for Malayalam | 2024 | [Link](https://www.researchgate.net/profile/Sikha-O-K/publication/380486380_Multimodal_attention-driven_visual_question_answering_for_Malayalam/links/66438ec008aa54017a0905fc/Multimodal-attention-driven-visual-question-answering-for-Malayalam.pdf) |
 | 9 | Multimodal Neural Machine Translation for Mongolian to Chinese | 2022 | [Link](https://ieeexplore.ieee.org/document/9892831?denied=) |
 | 10 | Impact of Visual Context on Noisy Multimodal NMT: An Empirical Study for English to Indian Languages | 2023 | [Link](https://arxiv.org/abs/2308.16075) |
 | 11 | Do cues in a video help in handling rare words in a machine translation system under a low-resource setting? | 2023 | [Link](https://www.sciencedirect.com/science/article/pii/S2949719123000134) |
