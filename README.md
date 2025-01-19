@@ -104,24 +104,22 @@ Papers exploring different methods of combining multimodal information:
 | 7 | An Efficient Fusion Mechanism for Multimodal Low-resource Setting | 2022 | English, Spanish | T, A, V | [Link](https://www.cse.iitb.ac.in/~pb/papers/sigir22-fusion.pdf) |
 | 8 | Multimodal Amharic hate speech detection using deep learning | 2022 | Amharic | T, A | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9971436) |
 | 9 | Multimodal Hate Speech Detection from Bengali Memes and Texts | 2022 | Bengali | V, T | [Link](https://arxiv.org/pdf/2204.10196) |
-| 10 | Multimodal hate speech detection from Bengali memes and texts | 2022 | Bengali | V, T | [Link](https://link.springer.com/chapter/10.1007/978-3-031-33231-9_21) |
-| 11 | A Novel Deep Learning Multi-Modal Sentiment Analysis Model for English and Egyptian Arabic Dialects Using Audio and Text | 2023 | English, Egyptian Arabic | T, A | [Link](https://ieeexplore.ieee.org/document/10453875) |
-| 12 | Exploiting multiple correlated modalities can enhance low-resource machine translation quality | 2023 | Manipuri, English, German | V, T, A | [Link](https://link.springer.com/article/10.1007/s11042-023-15721-2) |
-| 13 | Findings of the Shared Task on Multimodal Abusive Language Detection and Sentiment Analysis in Tamil and Malayalam | 2023 | Tamil, Malayalam | T, A, Vi | [Link](https://aclanthology.org/2023.dravidianlangtech-1.10.pdf) |
-| 14 | Multi-modal Hate Speech Detection for Amharic using Deep Learning | 2023 | Amharic | A, T | [Link](https://www.researchgate.net/publication/366127526) |
-| 15 | Multimodal Arabic emotion recognition using deep learning | 2023 | Arabic | A, V | [Link](https://dl.acm.org/doi/10.1016/j.specom.2023.103005) |
-| 16 | Multimodal Arabic Rumors Detection | 2023 | Arabic | V, T | [Link](https://ieeexplore.ieee.org/abstract/document/10026837) |
-| 17 | SADTech@DravidianLangTech: Multimodal Sentiment Analysis of Tamil and Malayalam | 2023 | Tamil, Malayalam | A, T | [Link](https://aclanthology.org/2023.dravidianlangtech-1.37/) |
-| 18 | English-to-low-resource translation: A multimodal approach for Hindi, Malayalam, Bengali, and Hausa | 2024 | English, Hindi, Malayalam, Bengali, Hausa | V, T | [Link](https://aclanthology.org/2024.wmt-1.76/) |
-| 19 | A Lip-Reading Model for Tagalog Using Multimodal Deep Learning Approach | 2024 | Tagalog | V, T | [Link](https://stepacademic.net/ijcsr/article/view/511) |
-| 20 | Advanced Multimodal Emotion Recognition for Javanese Language Using Deep Learning | 2024 | Javanese | A, Vi, V | [Link](https://section.iaesonline.com/index.php/IJEEI/article/viewFile/5662/928) |
-| 21 | Detecting Hate Speech in Amharic Using Multimodal Analysis of Social Media Memes | 2024 | Amharic | V, T | [Link](https://aclanthology.org/2024.trac-1.10.pdf) |
-| 22 | Multi-modal Deep Learning Approach to Improve Sentence level Sinhala Sign Language Recognition | 2024 | Sinhala | V, T | [Link](https://journal.icter.org/index.php/ICTer/article/view/494) |
-| 23 | Multi-modal Sentiment Analysis of Mongolian Language based on Pre-trained Models and High-resolution Networks | 2024 | Mongolian | T, A, V | [Link](https://ieeexplore.ieee.org/document/10661161?denied=) |
-| 24 | Multimodal Abusive Language Detection in Tamil based on Integrated Approach of Machine Learning and Deep Learning Techniques | 2024 | Tamil | T, Vi, A | [Link](https://aclanthology.org/2024.dravidianlangtech-1.35.pdf) |
-| 25 | Multimodal Sensing for Depression Risk Detection: Integrating Audio, Video, and Text Data | 2024 | Chinese, English | A, Vi, T | [Link](https://www.mdpi.com/1424-8220/24/12/3714) |
-| 26 | Multimodal systems for speech recognition | 2024 | Kazakh | A, V | [Link](https://www.researchgate.net/publication/364253520) |
-| 27 | Multimodal systems for speech recognition | 2024 | Kazakh | A, V | [Link](https://www.researchgate.net/publication/364253520) |
+| 10 | A Novel Deep Learning Multi-Modal Sentiment Analysis Model for English and Egyptian Arabic Dialects Using Audio and Text | 2023 | English, Egyptian Arabic | T, A | [Link](https://ieeexplore.ieee.org/document/10453875) |
+| 11 | Exploiting multiple correlated modalities can enhance low-resource machine translation quality | 2023 | Manipuri, English, German | V, T, A | [Link](https://link.springer.com/article/10.1007/s11042-023-15721-2) |
+| 12 | Findings of the Shared Task on Multimodal Abusive Language Detection and Sentiment Analysis in Tamil and Malayalam | 2023 | Tamil, Malayalam | T, A, Vi | [Link](https://aclanthology.org/2023.dravidianlangtech-1.10.pdf) |
+| 13 | Multi-modal Hate Speech Detection for Amharic using Deep Learning | 2023 | Amharic | A, T | [Link](https://www.researchgate.net/publication/366127526) |
+| 14 | Multimodal Arabic emotion recognition using deep learning | 2023 | Arabic | A, V | [Link](https://dl.acm.org/doi/10.1016/j.specom.2023.103005) |
+| 15 | Multimodal Arabic Rumors Detection | 2023 | Arabic | V, T | [Link](https://ieeexplore.ieee.org/abstract/document/10026837) |
+| 16 | SADTech@DravidianLangTech: Multimodal Sentiment Analysis of Tamil and Malayalam | 2023 | Tamil, Malayalam | A, T | [Link](https://aclanthology.org/2023.dravidianlangtech-1.37/) |
+| 17 | English-to-low-resource translation: A multimodal approach for Hindi, Malayalam, Bengali, and Hausa | 2024 | English, Hindi, Malayalam, Bengali, Hausa | V, T | [Link](https://aclanthology.org/2024.wmt-1.76/) |
+| 18 | A Lip-Reading Model for Tagalog Using Multimodal Deep Learning Approach | 2024 | Tagalog | V, T | [Link](https://stepacademic.net/ijcsr/article/view/511) |
+| 19 | Advanced Multimodal Emotion Recognition for Javanese Language Using Deep Learning | 2024 | Javanese | A, Vi, V | [Link](https://section.iaesonline.com/index.php/IJEEI/article/viewFile/5662/928) |
+| 20 | Detecting Hate Speech in Amharic Using Multimodal Analysis of Social Media Memes | 2024 | Amharic | V, T | [Link](https://aclanthology.org/2024.trac-1.10.pdf) |
+| 21 | Multi-modal Deep Learning Approach to Improve Sentence level Sinhala Sign Language Recognition | 2024 | Sinhala | V, T | [Link](https://journal.icter.org/index.php/ICTer/article/view/494) |
+| 22 | Multi-modal Sentiment Analysis of Mongolian Language based on Pre-trained Models and High-resolution Networks | 2024 | Mongolian | T, A, V | [Link](https://ieeexplore.ieee.org/document/10661161?denied=) |
+| 23 | Multimodal Abusive Language Detection in Tamil based on Integrated Approach of Machine Learning and Deep Learning Techniques | 2024 | Tamil | T, Vi, A | [Link](https://aclanthology.org/2024.dravidianlangtech-1.35.pdf) |
+| 24 | Multimodal Sensing for Depression Risk Detection: Integrating Audio, Video, and Text Data | 2024 | Chinese, English | A, Vi, T | [Link](https://www.mdpi.com/1424-8220/24/12/3714) |
+| 25 | Multimodal systems for speech recognition | 2024 | Kazakh | A, V | [Link](https://www.researchgate.net/publication/364253520) |
 
 
 ### Cross-Modal Transfer
