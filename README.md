@@ -17,17 +17,17 @@ The papers in this collection cover various aspects of multimodal approaches for
 
 The collection includes papers covering multiple languages:
 - Hindi (26 papers)
-- Arabic (19 papers)
+- Arabic (18 papers)
 - Bengali, Malayalam (16 papers each)
 - Tamil (11 papers)
 - Amharic (9 papers)
 - Hausa (8 papers)
 - Assamese, Urdu, Yoruba (7 papers each)
 - Fongbe, Javanese, Manipuri, Romanian, Uyghur, Vietnamese (5 papers each)
-- Kazakh, Mongolian, Uzbek (4 papers each)
-- Bulgarian, Igbo, Korean, Lao, Persian, Sinhala, Turkish (3 papers each)
-- Buginese, Egyptian, Hebrew, Indonesian, Marathi, Sanskrit, Sundanese, Swahili, Tagalog, Ukrainian (2 papers each)
-- Armenian, Azerbaijani, Belarusian, Bemba, Bosnian, Cantonese, Cebuano, Creole, Cuengh, Czech, Darija, Georgian, Greek, Haitian, Halh, Irish, Kamba, Kannada, Korean., Latin, Luo, Malagasy, Malay, Mandarin, Maori, Mauritanian, Mongolic, Moroccan, Norwegian, Occitan, Palestinian, Polish, SEA, Saudi, Serbian, Swedish, Tajik, Umbundu, Waray-Waray, Xhosa, Yemeni, Zulu, languages (1 papers each)
+- Kazakh, Uzbek (4 papers each)
+- Bulgarian, Igbo, Korean, Lao, Mongolian, Persian, Sinhala, Turkish (3 papers each)
+- Buginese, Hebrew, Indonesian, Marathi, Sanskrit, Sundanese, Swahili, Tagalog, Ukrainian (2 papers each)
+- Armenian, Azerbaijani, Belarusian, Bemba, Bosnian, Cantonese, Cebuano, Czech, Darija, Egyptian, Egyptian Arabic, Georgian, German Chinese, Greek, Haitian Creole, Halh Mongolian, Irish, Kamba, Kannada, Korean., Latin Cuengh, Luo, Malagasy, Malay, Mandarin, Maori, Mauritanian, Mongolic, Moroccan, Norwegian, Occitan, Palestinian, Polish, SEA languages, Saudi, Serbian, Swedish, Tajik, Umbundu, Waray-Waray, Xhosa, Yemeni, Zulu (1 papers each)
 
 
 ## Categories
